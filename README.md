@@ -1,2 +1,2 @@
-# Park-eateries-map
+# park-eateries-map
 Map of NYC parks and their eateries
