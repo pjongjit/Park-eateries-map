@@ -1,2 +1,3 @@
-# park-eateries-map
-Map of NYC parks and their eateries
+# SAVI-780-final-project
+
+An interactive map of NYC Parks and park amenities, namely eateries and restrooms
